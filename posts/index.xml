@@ -25,9 +25,9 @@ decoding="async"
 fetchpriority="low"
 alt="Image Description"
 srcset="
-/Hugo-blog-site/posts/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-%D0%B8-%D1%87%D0%B5%D1%80%D1%82/img/Pasted_image_20251016193002_hu_ec07b3c3bfea2718.png 330w,
-/Hugo-blog-site/posts/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-%D0%B8-%D1%87%D0%B5%D1%80%D1%82/img/Pasted_image_20251016193002_hu_102419fa90f18112.png 660w,
-/Hugo-blog-site/posts/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-%D0%B8-%D1%87%D0%B5%D1%80%D1%82/img/Pasted_image_20251016193002_hu_38fb52fef5b01916.png 1280w
+/Hugo-blog-site/posts/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-%D0%B8-%D1%87%D0%B5%D1%80%D1%82/img/Pasted_image_20251016193002_hu_4a6d08c396079f3b.png 330w,
+/Hugo-blog-site/posts/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-%D0%B8-%D1%87%D0%B5%D1%80%D1%82/img/Pasted_image_20251016193002_hu_da2f7da40e8b3ad0.png 660w,
+/Hugo-blog-site/posts/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-%D0%B8-%D1%87%D0%B5%D1%80%D1%82/img/Pasted_image_20251016193002_hu_221d2d4ca7eee177.png 1280w
 "
 data-zoom-src="https://nurik125.github.io/Hugo-blog-site/posts/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-%D0%B8-%D1%87%D0%B5%D1%80%D1%82/img/Pasted_image_20251016193002.png"
 src="https://nurik125.github.io/Hugo-blog-site/posts/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-%D0%B8-%D1%87%D0%B5%D1%80%D1%82/img/Pasted_image_20251016193002.png"&gt;
@@ -58,9 +58,9 @@ decoding="async"
 fetchpriority="low"
 alt="Image Description"
 srcset="
-/Hugo-blog-site/posts/description-det/img/Pasted_image_20250920134750_hu_779cbbd1d1ffa6a4.png 330w,
-/Hugo-blog-site/posts/description-det/img/Pasted_image_20250920134750_hu_83eccf1ef6c7a006.png 660w,
-/Hugo-blog-site/posts/description-det/img/Pasted_image_20250920134750_hu_b8491047d51ab859.png 1280w
+/Hugo-blog-site/posts/description-det/img/Pasted_image_20250920134750_hu_b1a8f301281a62ed.png 330w,
+/Hugo-blog-site/posts/description-det/img/Pasted_image_20250920134750_hu_23657610d83a09e9.png 660w,
+/Hugo-blog-site/posts/description-det/img/Pasted_image_20250920134750_hu_d398bc32dd43ab80.png 1280w
 "
 data-zoom-src="https://nurik125.github.io/Hugo-blog-site/posts/description-det/img/Pasted_image_20250920134750.png"
 src="https://nurik125.github.io/Hugo-blog-site/posts/description-det/img/Pasted_image_20250920134750.png"&gt;
