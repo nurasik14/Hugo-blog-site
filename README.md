@@ -1,6 +1,7 @@
 # KnowledgeFlow — Obsidian-to-Hugo Publishing Pipeline
 
-> Repository: `nurasik14/Hugo-blog-site`
+# CURRENTLY NOT IN DEPLOY ⚠️
+Apparently, I am not a good blog post writer.
 
 ## Overview
 This project is an automated personal publishing system built on **Hugo**.  
