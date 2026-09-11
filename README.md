@@ -1,6 +1,6 @@
 # KnowledgeFlow — Obsidian-to-Hugo Publishing Pipeline
 
-# CURRENTLY NOT IN DEPLOY ⚠️
+# CURRENTLY NOT ACTIVE POSTING ⚠️
 Apparently, I am not a good blog post writer.
 
 ## Overview
